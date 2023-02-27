@@ -4,3 +4,5 @@ FROM KOTHAGUDEM
 STUDING IN SRM AP
 btech 3rd year
 from cse
+ai ml course
+
